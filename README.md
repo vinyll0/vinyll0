@@ -13,11 +13,10 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left"><a href="https://github.com/vinyll0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- <h3 align="left"> 20-year-old student at Odessa National Polytechnic University, majoring in Cybersecurity (Specialty: 125). Currently in my 4th year, I’m passionate about IT, technology, and solving challenging security problems.
+ <h3 align="left">
+  💻 I have a growing interest in programming, network security, and ethical hacking. I’m eager to collaborate on projects that expand my skills and contribute to the tech community.
 
-💻 I have a growing interest in programming, network security, and ethical hacking. I’m eager to collaborate on projects that expand my skills and contribute to the tech community.
-
-🏀 Outside of tech, I enjoy playing basketball, exploring music, and traveling.</h3>
+  🏀 Outside of tech, I enjoy playing basketball, exploring music, and traveling.</h3>
 
  <h3 align="left">Skills</h3>
 
